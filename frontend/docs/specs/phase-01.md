@@ -62,3 +62,8 @@ around it.
 
 Any table. Roles beyond the defaults that come out of the box. Styling the
 sign-in screen beyond making it match the rest of the app.
+
+
+
+
+build @docs/specs/phase-01.md give this to the agent and it will look in to it and build it.
